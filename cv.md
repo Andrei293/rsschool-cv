@@ -3,4 +3,4 @@
 init: start cv#1 task
 init: star wreit englich
 feal: sleep time 10hours
-fix: ep time 12 hours
+fix: slep time 12 hours
